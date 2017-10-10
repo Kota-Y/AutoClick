@@ -33,15 +33,15 @@
             // 
             // webBrowser2
             // 
-            this.webBrowser2.Location = new System.Drawing.Point(108, 171);
+            this.webBrowser2.Location = new System.Drawing.Point(268, 157);
             this.webBrowser2.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser2.Name = "webBrowser2";
-            this.webBrowser2.Size = new System.Drawing.Size(475, 379);
+            this.webBrowser2.Size = new System.Drawing.Size(250, 250);
             this.webBrowser2.TabIndex = 0;
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(824, 773);
+            this.ClientSize = new System.Drawing.Size(968, 651);
             this.Controls.Add(this.webBrowser2);
             this.Name = "Form1";
             this.ResumeLayout(false);

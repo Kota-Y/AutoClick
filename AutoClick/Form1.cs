@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace AutoClick
-
 {
     public partial class Form1 : Form
     {
@@ -20,7 +19,7 @@ namespace AutoClick
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://www.yahoo.co.jp/");
+            webBrowser2.Navigate("https://www.yahoo.co.jp/");
         }
     }
 }
